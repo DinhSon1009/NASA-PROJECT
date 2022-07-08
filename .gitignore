@@ -1,4 +1,6 @@
 /client/node_modules
 /server/node_modules
 /server/public
+/server/build
 /node_modules
+.env
