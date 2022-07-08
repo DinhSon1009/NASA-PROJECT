@@ -3,4 +3,4 @@
 /server/public
 /server/build
 /node_modules
-.env
+*.env
